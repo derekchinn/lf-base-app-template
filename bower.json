@@ -1,0 +1,14 @@
+{
+  "name": "project-name",
+  "version": "0.0.0",
+  "dependencies": {
+    "requirejs": "~2.1.8",
+    "modernizr": "~2.6.2",
+    "jquery": "~1.10.2",
+    "streamhub-metrics": "git@github.com:Livefyre/streamhub-metrics.git",
+    "streamhub-hot-collections": "git@github.com:Livefyre/streamhub-hot-collections.git",
+    "streamhub-sdk": "git@github.com:Livefyre/streamhub-sdk.git#~v2.5",
+    "streamhub-wall": "git@github.com:Livefyre/streamhub-wall.git#~v2.2"
+  },
+  "devDependencies": {}
+}
